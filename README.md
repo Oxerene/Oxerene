@@ -1,4 +1,4 @@
-# Hi, I'm Dipanker Vashist
+# Hi, I'm Dipanker
 
 I'm a Python developer with a strong focus on building practical, impactful software. Over the years, I've worked on personal projects that reflect my interest in combining code with real-world utility and creativity.
 
