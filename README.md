@@ -17,9 +17,6 @@ I’m actively building my expertise in:
 
 I'm working toward becoming a highly skilled software engineer, with a long-term goal of contributing to product teams at top-tier tech companies. I prioritize hands-on experience, scalable problem-solving, and constant improvement over theoretical study.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/dipankerv)
 
 <!---
 Oxerene/Oxerene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
