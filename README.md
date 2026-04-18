@@ -77,17 +77,6 @@ Happy to talk about backend, systems, automation, or tooling work. Reach out at 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxerene&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxerene&layout=compact&hide_border=true&theme=default)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Oxerene?theme=light&font=Inter&ext=heatmap)](https://leetcode.com/u/Oxerene/)
-
-</div>
-
----
-
-<div align="center">
 <sub>
   <a href="https://oxerene.github.io">oxerene.github.io</a> · 
   <a href="https://github.com/oxerene">github.com/oxerene</a>
