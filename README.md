@@ -7,6 +7,7 @@ Chandigarh, India · Open to international roles · Visa sponsorship required
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oxerene.github.io-000?style=flat-square&logo=github)](https://oxerene.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipankerv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipankerv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Oxerene-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Oxerene/)
 [![Email](https://img.shields.io/badge/Email-dipankerv2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dipankerv2@gmail.com)
 
 </div>
@@ -85,6 +86,8 @@ Happy to talk about backend, systems, automation, or tooling work. Reach out at 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxerene&show_icons=true&hide_border=true&count_private=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxerene&layout=compact&hide_border=true&theme=default)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Oxerene?theme=light&font=Inter&ext=heatmap)](https://leetcode.com/u/Oxerene/)
 
 </div>
 
