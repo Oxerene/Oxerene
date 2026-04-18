@@ -72,12 +72,6 @@ I build **backends, desktop apps, and systems-level tools**. Currently running *
 
 ---
 
-## Looking for
-
-I'm actively looking for **software engineering roles or internships** in:
-
-🇩🇪 Germany · 🇨🇭 Switzerland · 🇬🇧 United Kingdom · 🇯🇵 Japan · 🇰🇷 South Korea
-
 Happy to talk about backend, systems, automation, or tooling work. Reach out at **[dipankerv2@gmail.com](mailto:dipankerv2@gmail.com)** or [LinkedIn](https://linkedin.com/in/dipankerv).
 
 ---
