@@ -90,15 +90,6 @@ Earlier, I built a production desktop app (Flask + PyWebview) for Panjab Univers
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxerene&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxerene&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-<div align="center">
 <sub>
   <a href="https://dipanker.aivorasoftwares.com">dipanker.aivorasoftwares.com</a> ·
   <a href="https://aivorasoftwares.com">aivorasoftwares.com</a> ·
