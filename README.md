@@ -77,7 +77,7 @@ Earlier, I built a production desktop app (Flask + PyWebview) for Panjab Univers
 
 | Project | Stack | What it does |
 |---|---|---|
-| [GW2 QoL Tweaks](https://github.com/proprene/qol-tweaks) | C++, WinAPI, MinHook, ImGui, CMake, CI/CD | DLL plugin for Guild Wars 2 — skips cinematics & NPC dialogue via runtime byte-pattern scanning, no game file modifications. Runs on Windows and Wine/macOS. MinHook detouring, ImGui settings panel, GitHub Actions CI. |
+| [GW2 QoL Tweaks](https://github.com/proprene/qol-tweaks) ![Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total?style=flat-square&label=downloads&color=success) | C++, WinAPI, MinHook, ImGui, CMake, CI/CD | DLL plugin for Guild Wars 2 — skips cinematics & NPC dialogue via runtime byte-pattern scanning, no game file modifications. Runs on Windows and Wine/macOS. MinHook detouring, ImGui settings panel, GitHub Actions CI. |
 | [Item Register Maintainer](https://github.com/Oxerene/Register-Maintainer) | Python, Tkinter | Inventory management GUI for small businesses — real-time editing, pricing, and calculations. |
 | [Mable Story](https://github.com/Oxerene/Mable-Story) | Python, Pygame | 2D platformer built from scratch — custom physics engine, collision detection, and a built-in level editor. |
 
